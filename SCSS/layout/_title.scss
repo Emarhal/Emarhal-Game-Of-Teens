@@ -1,0 +1,14 @@
+.main-title {
+  font-family: Podkova;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 64px;
+  line-height: 101.5%;
+
+  /* or 65px */
+  display: flex;
+  align-items: center;
+  font-feature-settings: "kern" off;
+
+  color: #503e9d;
+}
